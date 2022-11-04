@@ -11,3 +11,7 @@ Link for the contract: https://mumbai.polygonscan.com/address/0x4D1A2cd1E4DdaFAc
 <br />
 <h3>Opensea Marketplace link</h3>
 https://testnets.opensea.io/collection/armanmalikmusicalbum
+
+<h2>Note:</h2>
+Deployed this contract with this address: 0x6A00422C67579157C48A574E7064c2B856fc14f3 
+participated in bounty with this address: 0xe66d5D2158CbF77bFdCDB2131D5eB8FF50046D77
